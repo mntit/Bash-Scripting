@@ -6,9 +6,9 @@
 
 - First, we will discuss the **<ins>basic syntax</ins>** of an `if` statement.
 
-  ![image](https://user-images.githubusercontent.com/63872951/187624111-324c9ec8-2518-4317-a676-09f633c9487f.png)
+  ![image]()
 
-- [Example script](https://github.com/ShubhamJagtap2000/Bash-Scripting/blob/main/06%20-%20Conditionals/Scripts/Conditionals1.sh):
+- [Example script]():
 
 ```sh
 !#/bin/bash
@@ -31,7 +31,7 @@ fi
 
 - If they are equal then it outputs `true`, if its false it outputs `false`. As we know `10 is equal to 10` so it outputs `true`.
 
-- The `-eq` is one way of doing this, you could also use `“=”`, so our [new script](https://github.com/ShubhamJagtap2000/Bash-Scripting/blob/main/06%20-%20Conditionals/Scripts/Conditionals2.sh) becomes,
+- The `-eq` is one way of doing this, you could also use `“=”`, so our [new script]() becomes,
 
 ```sh
 !#/bin/bash
@@ -47,4 +47,4 @@ else
 fi
 ```
 
-- Head to the [QnA section](https://github.com/ShubhamJagtap2000/Bash-Scripting/blob/main/09%20-%20QnA/README.md#conditionals) for questions and answers on this topic.
+- Head to the [QnA section]( ) for questions and answers on this topic.
