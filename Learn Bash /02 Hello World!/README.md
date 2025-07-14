@@ -32,4 +32,3 @@ chmod +x yourfile.sh
 ./yourfile.sh
 ```
 
-- Head to [QnA folder](https://github.com/ShubhamJagtap2000/Bash-Scripting/blob/main/09%20-%20QnA/README.md#hello-world) for questions and answers on this topic.
